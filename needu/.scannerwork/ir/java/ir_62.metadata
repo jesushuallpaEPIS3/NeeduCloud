@@ -1,0 +1,5 @@
+ModeloDAO.UsuarioDAO#instance-init#
+Config.Conexion#<init>()V
+Modelo.Usuario#instance-init#
+Config.Conexion#instance-init#
+Modelo.Usuario#<init>()V

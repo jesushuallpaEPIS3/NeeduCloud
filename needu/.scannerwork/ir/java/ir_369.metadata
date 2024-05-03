@@ -1,0 +1,9 @@
+Controlador.ControladorOportunidad#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+ModeloDAO.OportunidadDAO#<init>()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+ModeloDAO.OportunidadDAO#instance-init#
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getTitulo Modelo.Oportunidad#getTitulo()Ljava/lang/String;
+getOportunidadById ModeloDAO.OportunidadDAO#getOportunidadById(I)LModelo/Oportunidad;

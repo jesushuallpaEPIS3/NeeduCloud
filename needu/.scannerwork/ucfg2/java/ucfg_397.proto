@@ -1,0 +1,674 @@
+
+Ñorg.apache.jsp.web.InfoOportunidad_jsp#_jspService(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)VÉ
+y/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/.scannerwork/jsp/org/apache/jsp/web/InfoOportunidad_jsp.javaW W("65*Ò
+24^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(cÑÅ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(c
+%40"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*#
+
+__unknown_file (
+
+%372	print([C)*
+23*ó
+47^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp+ ,(/™ß
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp+ ,(/
+%23void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*0
+
+__unknown_file (
+\r\n        <h1>2write(Ljava/lang/String;)*
+45*î
+25^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2S 2([ß
+§
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2S 2([
+%37"__id*5
+
+__unknown_file (
+
+%39java.lang.String*
+24*“
+48^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp) )(T·
+ﬁ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp* *("
+%22"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+47
+19*î
+26^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2H 2(Nß
+§
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2H 2(N
+%37"__id*5
+
+__unknown_file (
+
+%38java.lang.String*
+24*Œ
+49^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp)0 )(7·
+ﬁ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp)8 )(D
+%21java.lang.Object"__mapGet*,
+
+__unknown_file (
+
+%jsp_context*+
+
+__unknown_file (
+oportunidad*
+48*–
+27^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(cﬂ
+‹
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(c
+%36"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*
+25
+26*≥
+29^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(c∆√
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp2 2(c
+%35void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*L
+
+__unknown_file (0.
+,</p>\r\n        <p><strong>Estado:</strong> 2write(Ljava/lang/String;)*
+27*Œ
+50} }(	∑¥
+	} }(Ä
+%20void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*ë
+
+__unknown_file (ÙÒ
+Ó        </ul>\r\n    </div>\r\n        \r\n        \r\n    <div class=\"imagen-oportunidad\">\r\n        <img src=\"imagenes/imaGenerico.png\" alt=\"Imagen de la Oportunidad\">\r\n    </div>\r\n\r\n<div class=\"info-oportunidad\">\r\n    2write(Ljava/lang/String;)*
+49*∆
+51y y( x
+v
+y y( "
+outjavax.servlet.jsp.JspWriter"__id*@
+
+__unknown_file ($
+"
+%18javax.servlet.jsp.JspWriter~
+|
+z z((
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriterµ≤
+\
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp ((
+%19void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*º	
+
+__unknown_file (ü	ú	
+ô	\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n    <head>\r\n        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"estilos_InfoOportunidad.css\">\r\n        <title>JSP Page</title>\r\n    </head>\r\n    <body>\r\n    <div id=\"navbar\">\r\n        <div class=\"logo\">NGO Volunteer</div>\r\n        <div class=\"menu-icon\" onclick=\"toggleMenu()\">\r\n            <img src=\"imagenes/menuU.png\" alt=\"Men√∫\">\r\n        </div>\r\n        <div class=\"links\">\r\n            <a href=\"ControladorLogin?accion=redirigirInicio\">Inicio</a>\r\n            <a href=\"ControladorPerfil?accion=perfil\">Perfil</a>\r\n            <a href=\"ControladorLogin?accion=logout\">Cerrar Sesi√≥n</a>\r\n        </div>\r\n    </div>\r\n\r\n    <div id=\"menu-options\" class=\"menu-options\">\r\n        <ul>\r\n            <li><a href=\"Sobre_Nosotros.jsp\">Por qu√© ser voluntario</a></li>\r\n            <li><a href=\"ControladorLogin?accion=loginusuario\">Inicio de Sesi√≥n</a></li>\r\n            <li><a href=\"ControladorRegistro?accion=registro\" class=\"registro-btn\">Reg√≠strate</a></li>\r\n2write(Ljava/lang/String;)*
+50*‚
+52x x((À»
+y y( "
+%18javax.servlet.jsp.JspWriter"Bjavax.servlet.jsp.JspContext#getOut()Ljavax/servlet/jsp/JspWriter;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getOut()*
+51*
+30^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp1 1(IÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp1 1(I
+%34"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+29*Ò
+53w w(-⁄◊
+x x((%
+%17javax.servlet.http.HttpSession"Jjavax.servlet.jsp.PageContext#getSession()Ljavax/servlet/http/HttpSession;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getSession()*
+52*˜
+54v v(3‡›
+w w(-"
+%16javax.servlet.ServletConfig"Mjavax.servlet.jsp.PageContext#getServletConfig()Ljavax/servlet/ServletConfig;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletConfig()*
+53*µ
+32^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp1 1(I»≈
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp1 1(I
+%33void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*N
+
+__unknown_file (20
+.</p>\r\n        <p><strong>ID Causa:</strong> 2write(Ljava/lang/String;)*
+30*ö
+55s t( Ö
+Ç
+s t( ,
+pageContextjavax.servlet.jsp.PageContext"__id*B
+
+__unknown_file (&
+$
+%14javax.servlet.jsp.PageContextî
+ë
+u u(&3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext‰·
+v v(3#
+%15javax.servlet.ServletContext"Ojavax.servlet.jsp.PageContext#getServletContext()Ljavax/servlet/ServletContext;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletContext()*
+54*
+33^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp0 0(WÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp0 0(W
+%32"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+32*í
+56s s( [
+Y
+s s( #
+%13javax.servlet.jsp.JspFactory"__id*"
+
+__unknown_file (
+""ûõ
+s t( $
+%14javax.servlet.jsp.PageContext"µjavax.servlet.jsp.JspFactory#getPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)Ljavax/servlet/jsp/PageContext;*A
+
+__unknown_file (%
+#
+%13javax.servlet.jsp.JspFactory*F
+
+__unknown_file (*(
+&org.apache.jsp.web.InfoOportunidad_jsp*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*!
+
+__unknown_file (2Ä@* 
+
+__unknown_file (22ygetPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)*
+55*Ω
+35^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp0 0(W–Õ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp0 0(W
+%31void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*V
+
+__unknown_file (:8
+6</p>\r\n        <p><strong>ID Organizaci√≥n:</strong> 2write(Ljava/lang/String;)*
+33*£
+57r r(åâ
+r r(8
+%12void"Ajavax.servlet.ServletResponse#setContentType(Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*7
+
+__unknown_file (
+text/html;charset=UTF-82"setContentType(Ljava/lang/String;)*
+56*
+36^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp/ /(QÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp/ /(Q
+%30"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+35*•
+58g g(4d
+b
+g g(4,
+pageContextjavax.servlet.jsp.PageContext"__id*"
+
+__unknown_file (
+""Z
+X
+k k(+"
+outjavax.servlet.jsp.JspWriter"__id*"
+
+__unknown_file (
+""`
+^
+m m(1(
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*"
+
+__unknown_file (
+""k
+i
+n n(<3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*"
+
+__unknown_file (
+""*
+57*¢
+59a a(÷”
+a a(>
+
+%9void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*%
+
+__unknown_file (	
+Allow*8
+
+__unknown_file (
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)B
+@
+b b(D
+
+%10int"__id*"
+
+__unknown_file (
+""‡›
+	b b(à
+%11void"Fjavax.servlet.http.HttpServletResponse#sendError(ILjava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*(
+
+__unknown_file (
+
+
+%10int*_
+
+__unknown_file (CA
+?JSPs only permit GET, POST or HEAD. Jasper also permits OPTIONS2sendError(ILjava/lang/String;)"
+c c(
+""*∫
+38^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp/ /(QÕ 
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp/ /(Q
+%29void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*S
+
+__unknown_file (75
+3</p>\r\n        <p><strong>ID Ubicaci√≥n:</strong> 2write(Ljava/lang/String;)*
+36*˛
+16
+ö ö(	Ê„
+ö ö(≠
+%47void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*æ
+
+__unknown_file (°û
+õ        .then(data => {\r\n            if (data.success) {\r\n                alert(data.message);\r\n            } else {\r\n                alert(data.message);\r\n            }\r\n        })\r\n        .catch(error => {\r\n            console.error('Error:', error);\r\n            alert('Datos enviados correctamente.');\r\n        });\r\n    }\r\n    </script>\r\n    \r\n    \r\n    </body>\r\n</html>\r\n2write(Ljava/lang/String;)*
+1*
+39^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp. .(DÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp. .(D
+%28"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+38*—
+
+17
+ô ô(	∏
+µ
+
+ô ô(¯
+%46void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*ê	
+
+__unknown_file (Û
+Ì                }, 500); // Agrega un retraso para que la animaci√≥n termine antes de ocultar el men√∫\r\n            }\r\n        }\r\n\r\n        // Funci√≥n para cerrar el men√∫ cuando cambia el tama√±o de la ventana\r\n        function closeMenuOnResize() {\r\n            var menuOptions = document.getElementById(\"menu-options\");\r\n            if (menuOptions.classList.contains('active')) {\r\n                menuOptions.classList.remove('active');\r\n                setTimeout(function() {\r\n                    menuOptions.style.display = \"none\";\r\n                }, 500);\r\n            }\r\n        }\r\n\r\n        // Agregar un controlador de eventos al evento 'resize' para detectar cambios de tama√±o de ventana\r\n        window.addEventListener('resize', closeMenuOnResize);\r\n    </script>\r\n    \r\n    \r\n    \r\n        <script>\r\n    function enviarSolicitud(event, idOportunidad) {\r\n        event.preventDefault(); // Detiene el comportamiento de env√≠o del formulario\r\n\r\n        fetch('ControladorSolicitud?idoportunidad=' + idOportunidad)\r\n        .then(response => response.json())\r\n2write(Ljava/lang/String;)*
+16*§
+18^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jspW W(∑¥
+_
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp= â(
+%45void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*ª	
+
+__unknown_file (û	õ	
+ò	\r\n</div>\r\n\r\n\r\n    <!-- Bot√≥n para Ser Voluntario -->\r\n    <div class=\"boton-voluntario\">\r\n        <form onsubmit=\"enviarSolicitud(event, idOportunidad);\" class=\"form-oportunidad\">\r\n            <button type='submit' class=\"btn-oportunidad\">Ser Voluntario</button>\r\n        </form>\r\n    </div>   \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        \r\n        <script>\r\n        function toggleMenu() {\r\n            var menuOptions = document.getElementById(\"menu-options\");\r\n            if (menuOptions.style.display === \"none\" || menuOptions.style.display === \"\") {\r\n                menuOptions.style.display = \"block\";\r\n                setTimeout(function() {\r\n                    menuOptions.classList.add(\"active\");\r\n                }, 0);\r\n            } else {\r\n                menuOptions.classList.remove(\"active\"); // Retira la clase \"active\" para ocultar el men√∫\r\n                setTimeout(function() {\r\n                    menuOptions.style.display = \"none\"; // Oculta el men√∫ despu√©s de que se retire la animaci√≥n\r\n2write(Ljava/lang/String;)*
+17*π
+19^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp; ;(Ã…
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp; ;(
+%44void"8javax.servlet.jsp.JspWriter#println(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*A
+
+__unknown_file (%#
+!<p>Oportunidad no encontrada.</p>2println(Ljava/lang/String;)*
+18*(
+0 "!
+
+¨ ¨(
+implicit return*∞
+1
+™ ™(]
+[
+
+™ ™(#
+%58javax.servlet.jsp.JspFactory"__id*"
+
+__unknown_file (
+""∫∑
+
+™ ™(9
+%59void"Qjavax.servlet.jsp.JspFactory#releasePageContext(Ljavax/servlet/jsp/PageContext;)V*A
+
+__unknown_file (%
+#
+%58javax.servlet.jsp.JspFactory*Q
+
+__unknown_file (5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext23releasePageContext(Ljavax/servlet/jsp/PageContext;)*
+0*Á
+60`J `(PÃ…
+`J `(e
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*$
+
+__unknown_file (
+HEAD*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+58
+59*Á
+61`* `(0Ã…
+`* `(E
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*$
+
+__unknown_file (
+POST*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+58
+60*Ê
+62` `(À»
+` `(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*#
+
+__unknown_file (
+GET*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+58
+61*≤
+41^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp. .(D≈¬
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp. .(D
+%27void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*K
+
+__unknown_file (/-
++</p>\r\n        <p><strong>Fecha:</strong> 2write(Ljava/lang/String;)*
+39*˚
+63] ](÷”
+] ](>
+
+%5void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*%
+
+__unknown_file (	
+Allow*8
+
+__unknown_file (
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)"
+^ ^(
+""*
+42^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp- -(PÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp- -(P
+%26"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+41*†
+64[, [(3«ƒ
+[, [(?
+%3java.lang.String"Cjavax.servlet.http.HttpServletRequest#getMethod()Ljava/lang/String;*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest2getMethod()j
+h
+[ [(@ 
+_jspx_methodjava.lang.String"__id*4
+
+__unknown_file (
+
+%3java.lang.StringœÃ
+\
+ \((
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*'
+
+__unknown_file (	
+OPTIONS*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+62
+63*
+20^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp7 9(ÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp7 9(
+%43void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*à
+
+__unknown_file (lj
+h\">\r\n            <button type=\"submit\">Unirse a esta Oportunidad</button>\r\n        </form>\r\n    2write(Ljava/lang/String;)*
+18*»
+65Z	 Z(Z
+X
+Z	 Z(+"
+%0javax.servlet.DispatcherType"__id*"
+
+__unknown_file (
+""Ê„
+Z3 Z(N"
+%1javax.servlet.DispatcherType"Njavax.servlet.ServletRequest#getDispatcherType()Ljavax/servlet/DispatcherType;*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest2getDispatcherType()ËÂ
+Z	 Z(O
+%2boolean"*java.lang.Enum#equals(Ljava/lang/Object;)Z*@
+
+__unknown_file ($
+"
+%0javax.servlet.DispatcherType*@
+
+__unknown_file ($
+"
+%1javax.servlet.DispatcherType2equals(Ljava/lang/Object;)*
+58
+64*
+21^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp6 6(dÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp6 6(d
+%42"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+20*∫
+44^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp- -(PÕ 
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp- -(P
+%25void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*S
+
+__unknown_file (75
+3</h1>\r\n        <p><strong>Descripci√≥n:</strong> 2write(Ljava/lang/String;)*
+42*
+45^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp, ,(/ÉÄ
+^
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp, ,(/
+%24"&javax.servlet.jsp.JspWriter#print([C)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*"
+
+__unknown_file (
+""2	print([C)*
+44*·
+23\
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp3 6(dˆÛ
+\
+T/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/InfoOportunidad.jsp3 6(d
+%41void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*˝
+
+__unknown_file (‡›
+⁄</p>\r\n\r\n        <form action=\"ControladorOportunidad\" method=\"post\">\r\n            <input type=\"hidden\" name=\"accion\" value=\"unirse\">\r\n            <input type=\"hidden\" name=\"idoportunidad\" value=\"2write(Ljava/lang/String;)*
+21:*
+
+__unknown_file (
+%jsp_context:<
+W W(N0
+request%javax.servlet.http.HttpServletRequest:?
+	WO W(Ñ2
+response&javax.servlet.http.HttpServletResponseB*(
+&org.apache.jsp.web.InfoOportunidad_jspH`

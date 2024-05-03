@@ -1,0 +1,30 @@
+Controlador.ControladorPerfil#doPost(LHttpServletRequest;LHttpServletResponse;)V
+ModeloDAO.OrganizacionDAO#<init>()V
+Modelo.Usuario#instance-init#
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+Modelo.Usuario#<init>()V
+ModeloDAO.VoluntarioDAO#instance-init#
+ModeloDAO.AdminDAO#<init>()V
+ModeloDAO.AdminDAO#instance-init#
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+ModeloDAO.VoluntarioDAO#<init>()V
+ModeloDAO.OrganizacionDAO#instance-init#
+==
+obtenerAdminPorIDUsuario ModeloDAO.AdminDAO#obtenerAdminPorIDUsuario(I)LModelo/Admin;
+listar ModeloDAO.VoluntarioDAO#listar(I)LModelo/Voluntario;
+setNombre Modelo.Organizacion#setNombre(Ljava/lang/String;)V
+setApellido Modelo.Voluntario#setApellido(Ljava/lang/String;)V
+setCorreo Modelo.Organizacion#setCorreo(Ljava/lang/String;)V
+listar ModeloDAO.OrganizacionDAO#listar(I)LModelo/Organizacion;
+setTipo Modelo.Organizacion#setTipo(Ljava/lang/String;)V
+setCorreo Modelo.Voluntario#setCorreo(Ljava/lang/String;)V
+processRequest Controlador.ControladorPerfil#processRequest(LHttpServletRequest;LHttpServletResponse;)V
+editarVoluntario ModeloDAO.VoluntarioDAO#editarVoluntario(LModelo/Voluntario;)Z
+setGenero Modelo.Voluntario#setGenero(Ljava/lang/String;)V
+editarOrganizacion ModeloDAO.OrganizacionDAO#editarOrganizacion(LModelo/Organizacion;)Z
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setNombre Modelo.Voluntario#setNombre(Ljava/lang/String;)V
+setEdad Modelo.Voluntario#setEdad(I)V
+editar ModeloDAO.AdminDAO#editar(LModelo/Admin;)Z
+setNombre Modelo.Admin#setNombre(Ljava/lang/String;)V
+actualizarEstado ModeloDAO.VoluntarioDAO#actualizarEstado(II)Z

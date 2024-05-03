@@ -1,0 +1,17 @@
+Controlador.ControladorSolicitud#doGet(LHttpServletRequest;LHttpServletResponse;)V
+Modelo.Solicitud#instance-init#
+ModeloDAO.SolicitudDAO#instance-init#
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+ModeloDAO.SolicitudDAO#<init>()V
+Modelo.Solicitud#<init>()V
+ModeloDAO.VoluntarioDAO#instance-init#
+ModeloDAO.VoluntarioDAO#<init>()V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setIdoportunidad Modelo.Solicitud#setIdoportunidad(I)V
+existeSolicitud ModeloDAO.SolicitudDAO#existeSolicitud(II)Z
+setMensaje Modelo.Solicitud#setMensaje(Ljava/lang/String;)V
+setIdvoluntario Modelo.Solicitud#setIdvoluntario(I)V
+obtenerIdVoluntarioPorIdUsuario ModeloDAO.VoluntarioDAO#obtenerIdVoluntarioPorIdUsuario(I)I
+setEntregado Modelo.Solicitud#setEntregado(I)V
+crearSolicitud ModeloDAO.SolicitudDAO#crearSolicitud(LModelo/Solicitud;)Z

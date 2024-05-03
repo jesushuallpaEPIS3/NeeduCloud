@@ -1,0 +1,18 @@
+Controlador.ControladorOportunidad#doPost(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+ModeloDAO.OportunidadDAO#<init>()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+Modelo.Oportunidad#instance-init#
+ModeloDAO.OportunidadDAO#instance-init#
+Modelo.Oportunidad#<init>()V
+==
+setIdubicacion Modelo.Oportunidad#setIdubicacion(I)V
+crearOportunidad ModeloDAO.OportunidadDAO#crearOportunidad(LModelo/Oportunidad;)Z
+println java.io.PrintStream#println(Ljava/lang/String;)V
+obtenerIdorganizacion ModeloDAO.OrganizacionDAO#obtenerIdorganizacion(I)I
+setTitulo Modelo.Oportunidad#setTitulo(Ljava/lang/String;)V
+setDescripcion Modelo.Oportunidad#setDescripcion(Ljava/lang/String;)V
+setIdorganizacion Modelo.Oportunidad#setIdorganizacion(I)V
+eliminarOportunidad ModeloDAO.OportunidadDAO#eliminarOportunidad(I)Z
+setFecha Modelo.Oportunidad#setFecha(Ljava/lang/String;)V
+setIdcausa Modelo.Oportunidad#setIdcausa(I)V

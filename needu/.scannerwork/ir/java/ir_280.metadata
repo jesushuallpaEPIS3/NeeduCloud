@@ -1,0 +1,5 @@
+Controlador.ControladorUsuario#instance-init#
+Modelo.Control#instance-init#
+Modelo.Control#<init>()V
+ModeloDAO.ControlDAO#instance-init#
+ModeloDAO.ControlDAO#<init>()V

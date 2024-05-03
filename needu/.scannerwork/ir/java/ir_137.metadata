@@ -1,0 +1,6 @@
+Controlador.ControladorBusqueda#doGet(LHttpServletRequest;LHttpServletResponse;)V
+null
+ModeloDAO.OportunidadDAO#<init>()V
+ModeloDAO.OportunidadDAO#instance-init#
+==
+buscarPorTituloOOrganizacion ModeloDAO.OportunidadDAO#buscarPorTituloOOrganizacion(Ljava/lang/String;)Ljava/util/List;

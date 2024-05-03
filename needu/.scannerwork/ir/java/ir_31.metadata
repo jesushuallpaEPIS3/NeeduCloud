@@ -1,0 +1,3 @@
+ModeloDAO.VoluntarioDAO#listar(LModelo/Voluntario;)LModelo/Voluntario;
+java.lang.UnsupportedOperationException#instance-init#
+java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V

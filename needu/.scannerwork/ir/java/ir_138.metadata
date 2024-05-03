@@ -1,0 +1,3 @@
+Controlador.ControladorBusqueda#doPost(LHttpServletRequest;LHttpServletResponse;)V
+==
+doGet Controlador.ControladorBusqueda#doGet(LHttpServletRequest;LHttpServletResponse;)V

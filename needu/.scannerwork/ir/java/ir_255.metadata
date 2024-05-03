@@ -1,0 +1,3 @@
+ModeloDAO.OrganizacionDAO#listar(LModelo/Organizacion;)LModelo/Organizacion;
+java.lang.UnsupportedOperationException#instance-init#
+java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V

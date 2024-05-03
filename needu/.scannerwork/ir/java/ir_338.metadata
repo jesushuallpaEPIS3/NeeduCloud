@@ -1,0 +1,27 @@
+Controlador.ControladorPerfil#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getCorreo Modelo.Voluntario#getCorreo()Ljava/lang/String;
+getNombre Modelo.Voluntario#getNombre()Ljava/lang/String;
+getEstado Modelo.Usuario#getEstado()I
+listar ModeloDAO.VoluntarioDAO#listar(I)LModelo/Voluntario;
+getIdvoluntario Modelo.Voluntario#getIdvoluntario()I
+getIdusuario Modelo.Voluntario#getIdusuario()I
+getEdad Modelo.Voluntario#getEdad()I
+listarPorUsuario ModeloDAO.AdminDAO#listarPorUsuario(I)LModelo/Admin;
+listar ModeloDAO.OrganizacionDAO#listar(I)LModelo/Organizacion;
+getNombre Modelo.Admin#getNombre()Ljava/lang/String;
+getGenero Modelo.Voluntario#getGenero()Ljava/lang/String;
+getFecharegistro Modelo.Voluntario#getFecharegistro()Ljava/lang/String;
+getIdadmin Modelo.Admin#getIdadmin()I
+getIdhabilidad Modelo.Voluntario#getIdhabilidad()I
+getTipo Modelo.Organizacion#getTipo()Ljava/lang/String;
+getIdorganizacion Modelo.Organizacion#getIdorganizacion()I
+listar ModeloDAO.UsuarioDAO#listar(I)LModelo/Usuario;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getIdinteres Modelo.Voluntario#getIdinteres()I
+getIdusuario Modelo.Admin#getIdusuario()I
+getIdubicacion Modelo.Voluntario#getIdubicacion()I
+getCorreo Modelo.Organizacion#getCorreo()Ljava/lang/String;
+getApellido Modelo.Voluntario#getApellido()Ljava/lang/String;
+getNombre Modelo.Organizacion#getNombre()Ljava/lang/String;

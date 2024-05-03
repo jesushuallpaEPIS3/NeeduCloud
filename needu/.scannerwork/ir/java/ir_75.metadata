@@ -1,0 +1,12 @@
+Controlador.ControladorCalificar#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getClave Modelo.Usuario#getClave()Ljava/lang/String;
+obtenerTodosLosUsuarios ModeloDAO.UsuarioDAO#obtenerTodosLosUsuarios()Ljava/util/List;
+getEstado Modelo.Usuario#getEstado()I
+listar ModeloDAO.UsuarioDAO#listar(I)LModelo/Usuario;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getUsuario Modelo.Usuario#getUsuario()Ljava/lang/String;
+getRol Modelo.Usuario#getRol()Ljava/lang/String;
+processRequest Controlador.ControladorCalificar#processRequest(LHttpServletRequest;LHttpServletResponse;)V
+getIdusuario Modelo.Usuario#getIdusuario()I

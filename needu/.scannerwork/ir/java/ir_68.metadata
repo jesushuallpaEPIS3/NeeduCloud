@@ -1,0 +1,2 @@
+Controlador.ControladorRegistro#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z

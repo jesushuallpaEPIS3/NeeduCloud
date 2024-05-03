@@ -1,0 +1,29 @@
+Controlador.ControladorRegistro#doPost(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+registrarUbicacion ModeloDAO.UbicacionDAO#registrarUbicacion(LModelo/Ubicacion;)I
+setCorreo Modelo.Organizacion#setCorreo(Ljava/lang/String;)V
+setIdusuario Modelo.Voluntario#setIdusuario(I)V
+setTipo Modelo.Organizacion#setTipo(Ljava/lang/String;)V
+registrarVoluntario ModeloDAO.VoluntarioDAO#registrarVoluntario(LModelo/Voluntario;)Z
+setIdubicacion Modelo.Organizacion#setIdubicacion(I)V
+setIdubicacion Modelo.Voluntario#setIdubicacion(I)V
+setEstado Modelo.Usuario#setEstado(I)V
+setNombre Modelo.Voluntario#setNombre(Ljava/lang/String;)V
+setPais Modelo.Ubicacion#setPais(Ljava/lang/String;)V
+setNombre Modelo.Organizacion#setNombre(Ljava/lang/String;)V
+setApellido Modelo.Voluntario#setApellido(Ljava/lang/String;)V
+setCorreo Modelo.Voluntario#setCorreo(Ljava/lang/String;)V
+setIdusuario Modelo.Organizacion#setIdusuario(I)V
+setDireccion Modelo.Ubicacion#setDireccion(Ljava/lang/String;)V
+getRol Modelo.Usuario#getRol()Ljava/lang/String;
+setUsuario Modelo.Usuario#setUsuario(Ljava/lang/String;)V
+setGenero Modelo.Voluntario#setGenero(Ljava/lang/String;)V
+registrarOrganizacion ModeloDAO.OrganizacionDAO#registrarOrganizacion(LModelo/Organizacion;)Z
+registrarUsuario ModeloDAO.UsuarioDAO#registrarUsuario(LModelo/Usuario;)I
+setCiudad Modelo.Ubicacion#setCiudad(Ljava/lang/String;)V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setClave Modelo.Usuario#setClave(Ljava/lang/String;)V
+setRol Modelo.Usuario#setRol(Ljava/lang/String;)V
+setEdad Modelo.Voluntario#setEdad(I)V

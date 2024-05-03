@@ -1,0 +1,18 @@
+Controlador.ControladorLogin#doPost(LHttpServletRequest;LHttpServletResponse;)V
+Modelo.Usuario#instance-init#
+java.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;
+Modelo.Usuario#<init>()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getClave Modelo.Usuario#getClave()Ljava/lang/String;
+autenticarUsuario ModeloDAO.UsuarioDAO#autenticarUsuario(Ljava/lang/String;Ljava/lang/String;)I
+setIdusuario Modelo.Control#setIdusuario(I)V
+getEstado Modelo.Usuario#getEstado()I
+listar ModeloDAO.UsuarioDAO#listar(I)LModelo/Usuario;
+setUsuario Modelo.Control#setUsuario(Ljava/lang/String;)V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getUsuario Modelo.Usuario#getUsuario()Ljava/lang/String;
+registrarInicio ModeloDAO.ControlDAO#registrarInicio(LModelo/Control;)I
+getRol Modelo.Usuario#getRol()Ljava/lang/String;
+getIdusuario Modelo.Usuario#getIdusuario()I

@@ -1,0 +1,153 @@
+
++ModeloDAO.SolicitudDAO#existeSolicitud(II)Zk
+a/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/src/java/ModeloDAO/SolicitudDAO.java (""10*!
+3 ("
+ (
+""*ê
+4 ("l
+j
+ (" 
+ModeloDAO.SolicitudDAO"
+rs"__id*6
+
+__unknown_file (
+
+%9java.sql.ResultSetm
+k
+ (
+%10java.sql.ResultSet"__id*>
+
+__unknown_file ("* 
+ModeloDAO.SolicitudDAO"
+rsyw
+ (
+%11boolean"java.sql.ResultSet#next()Z*7
+
+__unknown_file (
+
+%10java.sql.ResultSet2next()*
+3*Á
+5 (t
+r
+ ( 
+%8java.sql.PreparedStatement"__id*>
+
+__unknown_file ("* 
+ModeloDAO.SolicitudDAO"
+ps¶³
+ ("
+%9java.sql.ResultSet"=java.sql.PreparedStatement#executeQuery()Ljava/sql/ResultSet;*>
+
+__unknown_file ("
+ 
+%8java.sql.PreparedStatement2executeQuery()*
+4*Þ
+6 (t
+r
+ ( 
+%6java.sql.PreparedStatement"__id*>
+
+__unknown_file ("* 
+ModeloDAO.SolicitudDAO"
+psÓÐ
+ ('
+
+%7void"&java.sql.PreparedStatement#setInt(II)V*>
+
+__unknown_file ("
+ 
+%6java.sql.PreparedStatement* 
+
+__unknown_file (2*"
+
+__unknown_file (
+""2
+setInt(II)*
+5*Ô
+7 (*t
+r
+ (* 
+ModeloDAO.SolicitudDAO"
+ps"__id*>
+
+__unknown_file ("
+ 
+%3java.sql.PreparedStatementt
+r
+ ( 
+%4java.sql.PreparedStatement"__id*>
+
+__unknown_file ("* 
+ModeloDAO.SolicitudDAO"
+psÓÐ
+ (&
+
+%5void"&java.sql.PreparedStatement#setInt(II)V*>
+
+__unknown_file ("
+ 
+%4java.sql.PreparedStatement* 
+
+__unknown_file (2*"
+
+__unknown_file (
+""2
+setInt(II)*
+6*
+8 ($n
+l
+ ($!
+ModeloDAO.SolicitudDAO"
+con"__id*7
+
+__unknown_file (
+
+%1java.sql.Connectionn
+l
+ (
+%2java.sql.Connection"__id*?
+
+__unknown_file (#*!
+ModeloDAO.SolicitudDAO"
+con›˜
+ (* 
+%3java.sql.PreparedStatement"Tjava.sql.Connection#prepareStatement(Ljava/lang/String;)Ljava/sql/PreparedStatement;*7
+
+__unknown_file (
+
+%2java.sql.Connection*5
+
+__unknown_file (
+
+sqljava.lang.String2$prepareStatement(Ljava/lang/String;)*
+7*¤
+9 (i
+g
+ (
+%0Config.Conexion"__id*>
+
+__unknown_file ("* 
+ModeloDAO.SolicitudDAO"
+cn¤¡
+ ($
+%1java.sql.Connection"4Config.Conexion#getConnection()Ljava/sql/Connection;*3
+
+__unknown_file (
+
+%0Config.Conexion2getConnection()*
+8*ª
+10 (]”
+‘
+ (^
+sqljava.lang.String"__id*f
+
+__unknown_file (JH
+FSELECT * FROM tbsolicitud WHERE idvoluntario = ? AND idoportunidad = ?*
+9: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+ModeloDAO.SolicitudDAOHX

@@ -1,0 +1,360 @@
+
+áorg.apache.jsp.web.Sobre_005fNosotros_jsp#_jspService(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)VÜ
+|/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/.scannerwork/jsp/org/apache/jsp/web/Sobre_005fNosotros_jsp.javaU U("33*ï
+24q q( [
+Y
+q q( #
+%13javax.servlet.jsp.JspFactory"__id*"
+
+__unknown_file (
+""°û
+q r( $
+%14javax.servlet.jsp.PageContext"µjavax.servlet.jsp.JspFactory#getPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)Ljavax/servlet/jsp/PageContext;*A
+
+__unknown_file (%
+#
+%13javax.servlet.jsp.JspFactory*I
+
+__unknown_file (-+
+)org.apache.jsp.web.Sobre_005fNosotros_jsp*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*!
+
+__unknown_file (2Ä@* 
+
+__unknown_file (22ygetPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)*
+23*£
+25p p(åâ
+p p(8
+%12void"Ajavax.servlet.ServletResponse#setContentType(Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*7
+
+__unknown_file (
+text/html;charset=UTF-82"setContentType(Ljava/lang/String;)*
+24*•
+26e e(4d
+b
+e e(4,
+pageContextjavax.servlet.jsp.PageContext"__id*"
+
+__unknown_file (
+""Z
+X
+i i(+"
+outjavax.servlet.jsp.JspWriter"__id*"
+
+__unknown_file (
+""`
+^
+k k(1(
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*"
+
+__unknown_file (
+""k
+i
+l l(<3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*"
+
+__unknown_file (
+""*
+25*¢
+27_ _(÷”
+_ _(>
+
+%9void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*%
+
+__unknown_file (	
+Allow*8
+
+__unknown_file (
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)B
+@
+` `(D
+
+%10int"__id*"
+
+__unknown_file (
+""‡›
+	` `(à
+%11void"Fjavax.servlet.http.HttpServletResponse#sendError(ILjava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*(
+
+__unknown_file (
+
+
+%10int*_
+
+__unknown_file (CA
+?JSPs only permit GET, POST or HEAD. Jasper also permits OPTIONS2sendError(ILjava/lang/String;)"
+a a(
+""*‚
+16} }(	Ã…
+	} }(î
+%22void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*¶
+
+__unknown_file (âÜ
+É            if (menuOptions.classList.contains('active')) {\r\n                menuOptions.classList.remove('active');\r\n                setTimeout(function() {\r\n                    menuOptions.style.display = \"none\";\r\n                }, 500);\r\n            }\r\n        }\r\n\r\n        // Agregar un controlador de eventos al evento 'resize' para detectar cambios de tama√±o de ventana\r\n        window.addEventListener('resize', closeMenuOnResize);\r\n    </script>\r\n\r\n</body>\r\n</html>\r\n\r\n\r\n2write(Ljava/lang/String;)*
+1*Á
+28^J ^(PÃ…
+^J ^(e
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*$
+
+__unknown_file (
+HEAD*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+26
+27*˜
+
+17| |(	‡
+›
+
+	| |(†	
+%21void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*∫	
+
+__unknown_file (ù	ö	
+ó	    </div>\r\n\r\n\r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n    \r\n\r\n \r\n    <script>\r\n        function toggleMenu() {\r\n            var menuOptions = document.getElementById(\"menu-options\");\r\n            if (menuOptions.style.display === \"none\" || menuOptions.style.display === \"\") {\r\n                menuOptions.style.display = \"block\";\r\n                setTimeout(function() {\r\n                    menuOptions.classList.add(\"active\");\r\n                }, 0);\r\n            } else {\r\n                menuOptions.classList.remove(\"active\"); // Retira la clase \"active\" para ocultar el men√∫\r\n                setTimeout(function() {\r\n                    menuOptions.style.display = \"none\"; // Oculta el men√∫ despu√©s de que se retire la animaci√≥n\r\n                }, 500); // Agrega un retraso para que la animaci√≥n termine antes de ocultar el men√∫\r\n            }\r\n        }\r\n\r\n        // Funci√≥n para cerrar el men√∫ cuando cambia el tama√±o de la ventana\r\n        function closeMenuOnResize() {\r\n            var menuOptions = document.getElementById(\"menu-options\");\r\n2write(Ljava/lang/String;)*
+16*Á
+29^* ^(0Ã…
+^* ^(E
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*$
+
+__unknown_file (
+POST*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+26
+28*´
+
+18{ {(	î
+ë
+
+	{ {(Ÿ
+%20void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*Ó
+
+__unknown_file (—Œ
+À        </div>\r\n\r\n        <div class=\"steps\">\r\n          <div class=\"step\">\r\n              <img src=\"imagenes/Img01.JPG\" alt=\"Set your goals\">\r\n            <h2>1. Contribuci√≥n Comunitaria</h2>\r\n            <p>El voluntariado permite a las personas hacer una diferencia tangible en su comunidad o en una causa que les importa.</p>\r\n          </div>\r\n\r\n          <div class=\"step\">\r\n              <img src=\"imagenes/Img02.JPG\" alt=\"Name owners\">\r\n            <h2>2. Desarrollo de Habilidades</h2>\r\n            <p>A trav√©s del voluntariado, las personas pueden aprender nuevas habilidades o mejorar las existentes, lo que puede ser √∫til en la vida personal y profesional.</p>\r\n          </div>\r\n\r\n          <div class=\"step\">\r\n              <img src=\"imagenes/Img03.JPG\" alt=\"Get updates\">\r\n            <h2>3. Construcci√≥n de Redes</h2>\r\n            <p>El voluntariado ofrece la oportunidad de conocer nuevas personas, lo que puede llevar a amistades duraderas y contactos profesionales valiosos.</p>\r\n          </div>\r\n        </div>\r\n2write(Ljava/lang/String;)*
+17*§
+19w w( x
+v
+w w( "
+outjavax.servlet.jsp.JspWriter"__id*@
+
+__unknown_file ($
+"
+%18javax.servlet.jsp.JspWriter~
+|
+x x((
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriterìê
+Y
+S/C:/Users/OVALTECH/Dropbox/Mi PC (KONOR-RA9)/Downloads/needu/web/Sobre_Nosotros.jsp o
+%19void")java.io.Writer#write(Ljava/lang/String;)V*@
+
+__unknown_file ($
+"
+outjavax.servlet.jsp.JspWriter*ù
+
+
+__unknown_file (Ä
+˝	
+˙	\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Por qu√© ser Voluntario</title>\r\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilos_Nosotros.css\">\r\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\r\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Noto+Sans+Meroitic&family=Poppins:wght@500&display=swap\" rel=\"stylesheet\">\r\n</head>\r\n<body>\r\n\r\n    <div id=\"navbar\">\r\n        <div class=\"logo\">NGO Volunteer</div>\r\n        <div class=\"menu-icon\" onclick=\"toggleMenu()\">\r\n            <img src=\"imagenes/menuU.png\" alt=\"Men√∫\">\r\n        </div>\r\n        <div class=\"links\">\r\n            <a href=\"#\"></a>\r\n        </div>\r\n    </div>\r\n\r\n    <div id=\"menu-options\" class=\"menu-options\">\r\n        <ul>\r\n            \r\n            \r\n        </ul>\r\n    </div>\r\n    \r\n    \r\n    \r\n    \r\n    <div class=\"container\">\r\n        <div class=\"header\">\r\n          <h1>¬øPorque volverse un Voluntario?</h1>\r\n          <p>Convertirse en voluntario ofrece una multitud de beneficios tanto para la comunidad como para el individuo que presta su tiempo y esfuerzos.</p>\r\n2write(Ljava/lang/String;)*
+18*(
+0 "!
+
+è è(
+implicit return*∞
+1
+ç ç(]
+[
+
+ç ç(#
+%33javax.servlet.jsp.JspFactory"__id*"
+
+__unknown_file (
+""∫∑
+
+ç ç(9
+%34void"Qjavax.servlet.jsp.JspFactory#releasePageContext(Ljavax/servlet/jsp/PageContext;)V*A
+
+__unknown_file (%
+#
+%33javax.servlet.jsp.JspFactory*Q
+
+__unknown_file (5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext23releasePageContext(Ljavax/servlet/jsp/PageContext;)*
+0*Ê
+30^ ^(À»
+^ ^(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*#
+
+__unknown_file (
+GET*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+26
+29*˚
+31[ [(÷”
+[ [(>
+
+%5void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*P
+
+__unknown_file (4
+2
+response&javax.servlet.http.HttpServletResponse*%
+
+__unknown_file (	
+Allow*8
+
+__unknown_file (
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)"
+\ \(
+""*‚
+20v v((À»
+w w( "
+%18javax.servlet.jsp.JspWriter"Bjavax.servlet.jsp.JspContext#getOut()Ljavax/servlet/jsp/JspWriter;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getOut()*
+19*†
+32Y, Y(3«ƒ
+Y, Y(?
+%3java.lang.String"Cjavax.servlet.http.HttpServletRequest#getMethod()Ljava/lang/String;*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest2getMethod()j
+h
+Y Y(@ 
+_jspx_methodjava.lang.String"__id*4
+
+__unknown_file (
+
+%3java.lang.StringœÃ
+Z
+ Z((
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*'
+
+__unknown_file (	
+OPTIONS*>
+
+__unknown_file ("
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+30
+31*Ò
+21u u(-⁄◊
+v v((%
+%17javax.servlet.http.HttpSession"Jjavax.servlet.jsp.PageContext#getSession()Ljavax/servlet/http/HttpSession;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getSession()*
+20*»
+33X	 X(Z
+X
+X	 X(+"
+%0javax.servlet.DispatcherType"__id*"
+
+__unknown_file (
+""Ê„
+X3 X(N"
+%1javax.servlet.DispatcherType"Njavax.servlet.ServletRequest#getDispatcherType()Ljavax/servlet/DispatcherType;*N
+
+__unknown_file (2
+0
+request%javax.servlet.http.HttpServletRequest2getDispatcherType()ËÂ
+X	 X(O
+%2boolean"*java.lang.Enum#equals(Ljava/lang/Object;)Z*@
+
+__unknown_file ($
+"
+%0javax.servlet.DispatcherType*@
+
+__unknown_file ($
+"
+%1javax.servlet.DispatcherType2equals(Ljava/lang/Object;)*
+26
+32*˜
+22t t(3‡›
+u u(-"
+%16javax.servlet.ServletConfig"Mjavax.servlet.jsp.PageContext#getServletConfig()Ljavax/servlet/ServletConfig;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletConfig()*
+21*ö
+23q r( Ö
+Ç
+q r( ,
+pageContextjavax.servlet.jsp.PageContext"__id*B
+
+__unknown_file (&
+$
+%14javax.servlet.jsp.PageContextî
+ë
+s s(&3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext‰·
+t t(3#
+%15javax.servlet.ServletContext"Ojavax.servlet.jsp.PageContext#getServletContext()Ljavax/servlet/ServletContext;*J
+
+__unknown_file (.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletContext()*
+22:*
+
+__unknown_file (
+%jsp_context:<
+U U(N0
+request%javax.servlet.http.HttpServletRequest:?
+	UO U(Ñ2
+response&javax.servlet.http.HttpServletResponseB-+
+)org.apache.jsp.web.Sobre_005fNosotros_jspH`

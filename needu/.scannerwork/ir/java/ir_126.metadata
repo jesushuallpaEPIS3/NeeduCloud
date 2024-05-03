@@ -1,0 +1,12 @@
+Controlador.ControladorChat#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+ModeloDAO.MensajeDAO#instance-init#
+ModeloDAO.MensajeDAO#<init>()V
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+existeChat ModeloDAO.ChatDAO#existeChat(II)Z
+println java.io.PrintStream#println(Ljava/lang/String;)V
+obtenerMensajesChat ModeloDAO.MensajeDAO#obtenerMensajesChat(I)Ljava/util/List;
+obtenerIdUsuarioPorIdOportunidad ModeloDAO.UsuarioDAO#obtenerIdUsuarioPorIdOportunidad(I)I
+crearChat ModeloDAO.ChatDAO#crearChat(II)I
+obtenerChatsUsuario ModeloDAO.ChatDAO#obtenerChatsUsuario(I)Ljava/util/List;

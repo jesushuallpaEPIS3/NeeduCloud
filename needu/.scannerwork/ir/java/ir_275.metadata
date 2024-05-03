@@ -1,0 +1,20 @@
+Controlador.ControladorAdmin#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.io.FileInputStream#<init>(Ljava/io/File;)V
+java.io.File#<init>(Ljava/lang/String;)V
+ModeloDAO.AdminDAO#<init>()V
+java.io.File#instance-init#
+ModeloDAO.ControlDAO#instance-init#
+ModeloDAO.ControlDAO#<init>()V
+ModeloDAO.AdminDAO#instance-init#
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+java.io.FileInputStream#instance-init#
+==
+generarInforme ModeloDAO.AdminDAO#generarInforme(Ljava/util/List;)Ljava/lang/String;
+verTodosRegistros ModeloDAO.ControlDAO#verTodosRegistros()Ljava/util/List;
+read java.io.FileInputStream#read([B)I
+close java.io.OutputStream#close()V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getName java.io.File#getName()Ljava/lang/String;
+write java.io.OutputStream#write([BII)V
+flush java.io.OutputStream#flush()V
+close java.io.FileInputStream#close()V

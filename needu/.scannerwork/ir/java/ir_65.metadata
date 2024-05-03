@@ -1,0 +1,3 @@
+ModeloDAO.UsuarioDAO#listarUsuActual(I)LModelo/Usuario;
+java.lang.UnsupportedOperationException#instance-init#
+java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V

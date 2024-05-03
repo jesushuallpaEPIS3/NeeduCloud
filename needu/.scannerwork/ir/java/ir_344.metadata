@@ -1,0 +1,8 @@
+Controlador.ControladorLogin#doGet(LHttpServletRequest;LHttpServletResponse;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+registrarSalida ModeloDAO.ControlDAO#registrarSalida(LModelo/Control;)Z
+println java.io.PrintStream#println([C)V
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setIdcontrol Modelo.Control#setIdcontrol(I)V
